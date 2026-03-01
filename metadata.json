@@ -1,0 +1,7 @@
+{
+  "name": "OmniMind AI",
+  "description": "A multi-tool AI assistant with search grounding, image generation, and advanced reasoning capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
